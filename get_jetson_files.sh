@@ -59,7 +59,7 @@ wget -N https://developer.nvidia.com/embedded/l4t/r34_release_v1.1/release/jetso
 wget -N https://developer.nvidia.com/embedded/l4t/r34_release_v1.1/release/tegra_linux_sample-root-filesystem_r34.1.1_aarch64.tbz2
 # Get the Secure Boot package
 # wget -N https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/t186/secureboot_r32.6.1_aarch64.tbz2
-# wget -N https://developer.nvidia.com/embedded/l4t/r34_release_v1.1/secureboot_r34.1.1_aarch64.tbz2
+wget -N https://developer.nvidia.com/embedded/l4t/r34_release_v1.1/secureboot_r34.1.1_aarch64.tbz2
 
 
 # Unpack the files, creating the Linux_for_Tegra folder
